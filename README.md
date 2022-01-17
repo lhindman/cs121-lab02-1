@@ -2,7 +2,7 @@
 ## Getting Started
 [Lab Introduction Video](https://youtu.be/9I07czT47as)  
 
-## Lab Warmup - AverageOfThree (Required)
+## Lab Warmup - AverageOfThree
 [Walkthough Video](https://www.youtube.com/playlist?list=PLbxWwkW_BhyBdcCTsjuSvw9JgUc7RXre2)  
 
 ### Problem Description
@@ -24,7 +24,7 @@ The average is: 14.666666666666666
 5. Push the changes from your local repository to the github classroom repository.
 
 
-## Lab Activity 1 - FractionConverter (Required)
+## Lab Activity 1 - FractionConverter
 ### Problem Description
 Write an application that prompts the user for the numerator and denominator of a fraction as integer values using a Scanner and prints the decimal equivalent of the fraction. Pay special attention to floating point vs integer division. The result should not be truncated or rounded.  Your program should match the expected output below.
 
