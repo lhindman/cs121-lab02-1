@@ -1,9 +1,9 @@
 # Module 2 Lab Guide (part 1)
 ## Getting Started
-[Lab Introduction Video](https://boisestate.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=162c0dc3-d2d4-4953-81f3-ae24018a8729)  
+[Lab Introduction Video](https://boisestate.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=162c0dc3-d2d4-4953-81f3-ae24018a8729&start=0)  
 
 ## Lab Warmup - AverageOfThree
-[Walkthough Video](https://boisestate.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0b5db284-756a-4f39-815d-ae24018a8721)  
+[Walkthough Video](https://boisestate.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0b5db284-756a-4f39-815d-ae24018a8721&start=0)  
 
 ### Problem Description
 Write an application that reads three integers values from the user with a Scanner and prints their average. Pay special attention to floating point vs integer divsion. The average value should not be truncated or rounded. Your program should match the expected output below. 
