@@ -1,3 +1,4 @@
+![CS121 Banner](images/CS121-BANNER.svg)
 # Module 2 Lab Guide (part 1)
 ## Getting Started
 [Lab Introduction Video](https://boisestate.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=162c0dc3-d2d4-4953-81f3-ae24018a8729&start=0)  
