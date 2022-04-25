@@ -2,6 +2,8 @@
 # Module 2 Lab Guide (part 1)
 [Lab Introduction Video](https://boisestate.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=162c0dc3-d2d4-4953-81f3-ae24018a8729&start=0)  
 
+**NOTE: Please remember to [open the workspace](images/open-lab-workspace.png) before beginning on the lab activities** 
+
 ## Lab Warmup - AverageOfThree
 [Walkthough Video](https://boisestate.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0b5db284-756a-4f39-815d-ae24018a8721&start=0)  
 
